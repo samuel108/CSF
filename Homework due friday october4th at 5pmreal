@@ -1,0 +1,84 @@
+# Name: Sam
+# Evergreen Login: golsam27
+# Computer Science Foundations
+# Programming as a Way of Life
+# Homework 1
+
+# You may do your work by editing this file, or by typing code at the
+# command line and copying it into the appropriate part of this file when
+# you are done.  When you are done, running this file should compute and
+# print the answers to all the problems.
+
+import math                     # makes the math.sqrt function available
+
+
+###
+### Problem 1
+###
+
+print "Problem 1 solution follows:"
+
+import math
+math.sqrt(x2-5.86 x+ 8.5408)
+ I did not get a chance to see the tutors I have some learning to do, I have not done math like this since sophomoric year of high-school, I looked up a bunch of things online and could not find a very sufficient tutorial to explain it properly.
+
+###
+### Problem 2
+###
+# hw1.py
+
+a = True
+b = False
+c = True
+d = False
+e = False
+f = True
+
+print "Problem 2 solution follows:"
+import hw1_test
+
+
+print(hw1_test.a)
+print(hw1_test.b)
+print(hw1_test.c)
+print(hw1_test.d)
+print(hw1_test.e)
+print(hw1_test.f)
+
+%run C:/Users/sam/Documents/GitHub/CSF/hw1print.py
+True
+False
+True
+False
+False
+True
+
+###
+### Problem 3
+###
+
+print "Problem 3 solution follows:"
+
+import hw1_test
+
+
+print(hw1_test.a and hw1_test.b or not hw1_test.c and not hw1_test.d or hw1_test.e or hw1_test.f)
+
+%run "c:\users\sam\appdata\local\temp\tmpsvj47l.py"
+True
+
+
+###
+### Collaboration
+###
+
+
+###
+### Reflection
+###
+
+# ...i send about 3 hours looking up tutorials online and looking though my book to try and figure out how do to the first problem non of them really helped me out very much. 
+# ... the tutorials linked did not help me on what I didnt understand. 
+# … I missed tuesday so I must have missed some important stuff I have I meeting with key tomarrow to go over quadractic equations so hopefully I will be good on monday 
+
+
