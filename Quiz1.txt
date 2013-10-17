@@ -1,0 +1,8 @@
+# Grader Name: DJ Porter
+# Evergreen Login: porrog09
+
+import lab2
+n=lab2
+Print (n.helloworld)
+Print (lab2.n) * Helloworld)
+???
