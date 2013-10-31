@@ -1,0 +1,9 @@
+import n:
+
+if n < 50 
+print( "your result is less then 50")
+elif n > 50
+print ("your result is greater then 50")
+else n = 50;
+print (" your result is equal to 50") 
+
