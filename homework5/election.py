@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Sam Goldsmith
+# Evergreen Login: Golsam27
 # Programming as a Way of Life
 # Homework 5: Election prediction
 
