@@ -19,10 +19,10 @@ print "Problem 1 solution follows:"
 
 # import hw2_test
 
-a = 0
+x = 0
 for i in range(hw2_test.n):
-    a = a + i
-print a + hw2_test.n
+    x = x + i
+print x + hw2_test.n
 
 
 ###
@@ -33,10 +33,8 @@ print a + hw2_test.n
 print "Problem 2 solution follows:"
 
 # for i in range (2, 11):
-    print 1.0/i
-print
-
-
+for i in range(2, 11):
+    print 1 / i
 ###
 ### Problem 3
 ###
@@ -45,12 +43,12 @@ print
 print "Problem 3 solution follows:"
 
 # n = 10
-triangular = 0
+t = 0
 
 for i in range (n+1):
-    triangular = triangular + i
-print "Triangular number", n, "via loop:", triangular
-print "Triangular number", n, "via formula:", n*(n+1)/2
+    t = t + i
+print "Tri num", n, "loop:", t
+print "Tri num", n, "formula:", n*(n+1)/2
 print
 
 ###
@@ -61,8 +59,10 @@ print
 print "Problem 4 solution follows:"
 
 # num_factorial = input
-num_factorial = fact 
-print num_factorial
+num = 10
+num2 = 1
+for i in range (1, num + 1):
+    num2 = num2 * i
 
 ###
 ### Problem 5
