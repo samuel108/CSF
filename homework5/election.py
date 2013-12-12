@@ -1,5 +1,5 @@
-# Name: Sam Goldsmith
-# Evergreen Login: Golsam27
+# Name: ...
+# Evergreen Login: ...
 # Programming as a Way of Life
 # Homework 5: Election prediction
 
@@ -36,12 +36,9 @@ def state_edges(election_result_rows):
     that is, each state is represented at most once in the input list.
     """
     #TODO: Implement this function
-    resultofelec = {0}
-    for Elec in range(0, len(election_result_rows)):
-        ts = election_result_rows[Elec]['State']
-        resultofelec[ts] = row_to_edge(election_result_rows[Elec])
-    
-    return resultofelec   
+   for i in range (0, 51):
+        rows[{State: (From file), Dem: (From file), Rep: (From file)}]
+        print (Dem - Rep)
 
 ################################################################################
 # Problem 2: Find the most recent poll row

@@ -1,0 +1,97 @@
+# Name: Chris Edwards, Sam Goldsmith
+# Evergreen Login: edwchr30, golsam27
+# Computer Science Foundations
+# Programming as a Way of Life
+# Homework 6
+
+# You may do your work by editing this file, or by typing code at the
+# command line and copying it into the appropriate part of this file when
+# you are done.  When you are done, running this file should compute and
+# print the answers to all the problems.
+
+
+###
+### Problem 3
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 3 solution follows:"
+
+rounded_height = {}
+rounded_height = ["John"] = 6
+rounded_height = ["Mike"] = 5
+rounded_height = ["Nate"] = 6
+rounded_height = ["Harry"] = 7
+
+###
+### Problem 4
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 4 solution follows:"
+
+
+print rounded_height['Nate']
+rounded_height = ["Terry"] = 8
+
+
+###
+### Problem 5
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 5 solution follows:"
+
+# ... write your code and comments here (and remove this line)
+
+###
+### Problem 6
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 6 solution follows:"
+
+x = 0
+n = 5
+while x < n:
+    x += 1 
+    print (x)
+//////////////////////////////
+n = range(1,11)
+for count in n:
+    print (count)
+//////////////////////////////
+
+x = 0
+for N in range(1,11):
+    
+        x = x + 1
+        
+        print (x)
+
+
+###
+### Problem 7
+###
+
+# DO NOT CHANGE THE FOLLOWING LINE
+print "Problem 7 solution follows:"
+
+y = 10
+q = 0
+while(q < y):
+        print "iteration counter"
+        q = q + 1
+        
+In [29]: %run "c:\users\sam\appdata\local\temp\tmpujanur.py"
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter        
+### i got a bit confused in exactly you wanted me to do so i did this. hope this was right but i dont think so 
