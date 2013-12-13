@@ -1,0 +1,14 @@
+Do the following to get credit:
+
+* Do hw8, problem 1, to generate the file romeo-and-juliet.pdf.
+  Commit this PDF file and social_network.py to your github repo.
+  
+* Update your hw3 and hw4 (dna_analysis.py) so that it runs correctly.
+
+* Show for tutoring at 10am in LIB 2612.
+
+* Write and submit self-eval and faculty evals for me, Neal, and Sherri online at my.evergreen.edu
+
+Do this by 5pm tomorrow (Friday).
+
+Thanks, Paul
