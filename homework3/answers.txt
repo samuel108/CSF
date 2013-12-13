@@ -1,0 +1,166 @@
+Name:Sam Goldsmith ...
+Evergreen Login: golsam27...
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+C:\Users\sam\Documents\GitHub\CSF\homework3>Python dna_analysis.py data/test-sma
+ll.fastq
+GC-content: 0.3
+
+
+
+
+Problem 3:
+
+...
+
+Problem 4:
+C:\Users\sam\Documents\GitHub\CSF\homework3>Python dna_analysis.py data/test-sma
+ll.fastq
+GC-content: 0.3
+AT-content: 0.7
+A-count: 5
+C-count: 2
+G-count: 1
+T-count: 2
+This organism has Low GC Content
+AT/GC Ratio: 0.428571428571
+Problem 5:
+GC-content: 0.3
+AT-content: 0.7
+A-count: 5
+C-count: 2
+G-count: 1
+T-count: 2
+Problem 6:
+test-small.fastq
+GC-content: 0.3
+AT-content: 0.7
+A-count: 5
+C-count: 2
+G-count: 1
+T-count: 2
+GC-content: 0.601807228916
+AT-content: 0.398192771084
+A-count: 7970
+C-count: 11800
+G-count: 12176
+T-count: 7894
+seems to be right
+Problem 7:
+
+data/sample_1
+.fastq
+GC-content: 0.430599870611
+AT-content: 0.569400129389
+A-count: 7701287
+C-count: 5879128
+G-count: 5738773
+T-count: 7661547
+This organism has Moderate GC Content
+AT/GC Ratio: 0.756234233866
+
+problem 8:
+
+test-mod
+erate-gc-1.fastq
+GC-content: 0.497000577295
+AT-content: 0.502999422705
+A-count: 10077
+C-count: 9983
+G-count: 9818
+T-count: 9963
+This organism has Moderate GC Content
+AT/GC Ratio: 0.988073852295
+
+
+Sum of all counts: 39841
+Total Count: 39841
+Length of sequence variable: 40000
+
+test-mod
+erate-gc-2.fastq
+GC-content: 0.401170530758
+AT-content: 0.598829469242
+A-count: 11813
+C-count: 7999
+G-count: 7972
+T-count: 12027
+This organism has Moderate GC Content
+AT/GC Ratio: 0.669924496644
+
+
+Sum of all counts: 39811
+Total Count: 39811
+Length of sequence variable: 40000
+
+test-high-gc-1.fastq
+GC-content: 0.601807228916
+AT-content: 0.398192771084
+A-count: 7970
+C-count: 11800
+G-count: 12176
+T-count: 7894
+This organism has High GC Content
+AT/GC Ratio: 1.51134644478
+
+
+Sum of all counts: 39840
+Total Count: 39840
+Length of sequence variable: 40000
+
+
+test-high-gc-2.fastq
+
+GC-content: 0.800933711503
+AT-content: 0.199066288497
+A-count: 3908
+C-count: 15955
+G-count: 15955
+T-count: 4023
+This organism has High GC Content
+AT/GC Ratio: 4.02345227588
+
+
+Sum of all counts: 39841
+Total Count: 39841
+Length of sequence variable: 40000
+
+
+sample_1
+.fastq
+GC-content: 0.430599870611
+AT-content: 0.569400129389
+A-count: 7701287
+C-count: 5879128
+G-count: 5738773
+T-count: 7661547
+This organism has Moderate GC Content
+AT/GC Ratio: 0.756234233866
+
+
+Sum of all counts: 26980735
+Total Count: 26980735
+Length of sequence variable: 27000000
+Collaboration:
+
+...
+
+Reflection:
+was challenging
+...
